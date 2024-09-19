@@ -18,7 +18,7 @@ export const app = new Frog({
     apiUrl: "https://hubs.airstack.xyz",
     fetchOptions: {
       headers: {
-        "x-airstack-hubs": "14cb1f30d1544436194308488fcba51d1",
+        "x-airstack-hubs": "1b84f2299aa7c43ca955a5d5ce634e757",
       }
     }
   }
